@@ -1,0 +1,21 @@
+/* Element Selector */
+body { 
+    color: rgb(0, 0, 0);
+    font:  normal 16px Arial, Helvetica, sans-serif;
+}
+/* Class Selector */
+.black-border {
+    border: 2px solid black;
+}
+/* Id Selector */
+#background {
+    background-color: rgb(252, 88, 88);
+}
+
+#background2 {
+    background-color: rgb(252, 88, 88);
+}
+
+#background3 {
+    background-color: rgb(252, 88, 88);
+}
